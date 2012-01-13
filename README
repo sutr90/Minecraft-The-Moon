@@ -1,0 +1,55 @@
+Installation
+************
+1) Download ModLoader 1.7.3
+2) Download ShockAhPI r6
+3) MAKE SURE YOU HAVE ShockAhPI r6!!
+4) Install ModLoader
+5) Install ShockAhPI
+6) Copy all files inside the jar folder of The Moon into root directory of minecraft.jar
+7) copy file moon.ini to .minecraft folder
+8) Make sure you have deleted META-INF
+9) Enjoy!
+
+FAQ
+************
+Q: How do I build the portal?
+A: First create a vertical frame 4 by 5 from cheese. Then right click to activate it witk Sonic Screwdriver.
+
+Q: How do I build a tent? It says "Couldnt build a tent." What should I do?
+A: Well placing a tent is a bit tricky. First you have to make sure you have a flat area 8 by 8 block. Above these platform there have to be at least 4 block of free space (air). Then dig a hole in the middle of this platform and fill it with tent block. This flat platform will be repalced with tent floor.
+
+Q: When I step into portal, I get message about entering the Nehter or the screen freezes with message "Saving Chunks". What should I do?
+A: Currently there is some problems with traveling through portal. It seems that The Moon isn't currently compatible with other mods. I personally used clean MC and it worked just fine. Along with TMI. Also make sure you have correct version of ShockAhPI.
+
+Q: How do I get Space Ship?
+A: You have to build Builder Bot, fuel him and provide him building materials.
+
+Q: How do I use SpaceShip?
+A: First you have to power the Rocket Core. Use button, lever, resstone torch, pressure plate... When Core is powered right-click on it.
+
+Changelog
+************
+v1.1
+------------
+Fixes:
++ Fixed fall damage on Moon
++ Fixed Moon texture when dying on Moon
++ Fixed droping blocks from Moon Tent
++ Fixed Helmet recipe
++ Fixed Mushrooms spawning on Moon
++ Improved tent code, it's better but still not perfect
++ Several other fixes I can't remember right now :D
+New Features:
++ New ore - bauxite
++ New metal - aluminium
++ Cheese is edible
++ ID's are configurable
++ Spaceship
++ New covering block on Moon - regolith
++ Space Suit works under water now
++ ERBs have chance to drop redstone, instead of leather
+
+
+v1.0
+------------
+Initial release
